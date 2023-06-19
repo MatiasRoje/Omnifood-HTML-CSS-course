@@ -1,0 +1,1 @@
+Project for a fictitious startup with a food delivery product with the intention of learning HTML, CSS and Javascript. Belongs to the course "Build Responsive Real-World Websites with HTML and CSS" from Udemy by Jonas Schmedtmann.
